@@ -4,6 +4,7 @@ public class NonRepeatedNumber {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
+		//hello 
         Scanner sc=new Scanner(System.in);
         int n1=sc.nextInt();
         int n2=sc.nextInt();
